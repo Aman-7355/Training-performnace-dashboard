@@ -1,0 +1,9 @@
+streamlit
+pandas
+qrcode
+reportlab
+openpyxl
+plotly
+pillow
+google-generativeai
+reportlab
