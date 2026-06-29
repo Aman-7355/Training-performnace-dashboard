@@ -80,12 +80,12 @@ st.sidebar.subheader("🚀 ERP Access")
 
 st.sidebar.link_button(
     "🎓 Student ERP",
-    "https://training-performance-liet-erp-5udhv9x4s3ni8qdlzffxro.streamlit.app/"
+    "https://training-performnace-dashboard-studenterp1.streamlit.app/"
 )
 
 st.sidebar.link_button(
     "👨‍💼 Admin ERP",
-    "https://training-performance-liet-erp-teacher2026.streamlit.app/"
+    "https://training-performnace-dashboard-lpwyyypu47d5kmhcqm3jh5.streamlit.app"
 )
 
 st.sidebar.divider()
